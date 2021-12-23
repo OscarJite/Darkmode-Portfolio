@@ -93,6 +93,7 @@ body {
   position: fixed;
   top: 0;
   width: calc(100% - 300px);
+  min-width: 100vh;
   left: 300px;
   background: var(--white2);
   border-bottom: 1px solid rgba(0, 0, 0, 0.05);
