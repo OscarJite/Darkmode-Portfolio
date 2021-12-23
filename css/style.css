@@ -113,6 +113,7 @@ body {
 }
 .main .topbar.active {
   width: calc(100% - 0px);
+  min-width: 100vh;
   left: 0px;
 }
 .main .topbar .logo {
